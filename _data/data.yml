@@ -4,8 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Taejun Yoon (윤태준)
@@ -35,7 +34,7 @@ education:
       - degree: B.S. in Computer Science and Engineering
         university: Pohang University of Science of Technology (POSTECH)
         time: 2021.02 - 2024.02
-        details: what
+        details: GPA 4.07/4.3
 
 experiences:
     title: Experiences
