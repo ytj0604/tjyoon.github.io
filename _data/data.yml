@@ -27,7 +27,7 @@ sidebar:
 career-profile:
     title: Welcome
     summary: |
-      Hello, I am a first-year Ph.D. student at Data System Lab of POSTECH, under supervisioon of Professor Wook-Shin Han.
+      Hello, I am a first-year Ph.D. student at Data System Lab of POSTECH, under supervision of Professor Wook-Shin Han.
       
 education:
     title: Education
@@ -35,8 +35,7 @@ education:
       - degree: B.S. in Computer Science and Engineering
         university: Pohang University of Science of Technology (POSTECH)
         time: 2021.02 - 2024.02
-        details: |
-          GPA 4.07/4.3
+        item: GPA 4.07/4.3
 
 experiences:
     title: Experiences
